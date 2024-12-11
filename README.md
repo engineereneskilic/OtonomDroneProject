@@ -1,7 +1,12 @@
 
 # Developing Autonomous Applications with Drone (Python - OpenCV)
 
-![Drone Uygulaması Örneği](images/drone-example.png)
+## Drone Project Full ER Diagram
+![Drone Uygulaması Örneği](drone-project-er_diagram.jpg)
+
+
+## Drone Project Full ER Diagram
+![Drone Uygulaması Örneği](droneProjectSystemUseCaseDiagram.jpg)
 
 
 ## Project Overview
