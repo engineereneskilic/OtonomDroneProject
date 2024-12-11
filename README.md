@@ -9,6 +9,12 @@
 ![Drone Uygulaması Örneği](droneProjectSystemUseCaseDiagram.jpg)
 
 
+## IIES Document for Drone Project
+![Drone Uygulaması Örneği](iies_document_for_drone_project.pdf)
+
+## Otonom Drone Project SRS Document
+![Drone Uygulaması Örneği](Otonom-Drone-Project-SRS-Document.pdf)
+
 ## Project Overview
 This project leverages cutting-edge **image processing** technologies to collect, store, and analyze data from drones, generating insightful reports for diverse applications. Designed for simplicity, mobility, and efficiency, the project integrates **computer vision** capabilities into well-organized subsystems, main modules, and submodules. With a **mobile-friendly web interface** and a **robust database system**, this project ensures efficient data handling and adaptability to various use cases such as surveillance, logistics, and urban planning.
 
